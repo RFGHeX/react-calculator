@@ -1,0 +1,24 @@
+body{
+  font-size: 14px;
+  text-align: center;
+  font-family:  Haettenschweiler, Impact, 'Arial Narrow Bold', sans-serif;
+  background-color: royalblue;
+}
+button{ padding:12px;}
+h1{ font-size: 40px; }
+input, select {
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 10px;
+  margin: 5px;
+  outline: none;
+  width:100px;
+  display: inline-block;
+  background-color: #fff !important;
+  opacity: 1 !important;
+}
+.warning{
+  font-size: 80px;
+  font-weight: bold;
+  color: #d10000;
+}
